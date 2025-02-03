@@ -1,0 +1,20 @@
+{
+  "name": "e-store",
+  "version": "0.1.0",
+  "description": "Pre release version of the e-store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmalaga-code/e-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cmalaga-code/e-store/issues"
+  },
+  "homepage": "https://github.com/cmalaga-code/e-store#readme"
+}
